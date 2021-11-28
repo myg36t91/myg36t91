@@ -1,8 +1,5 @@
 ### Hi there.
 
-我是蕭育宜，或是大家都稱我為蕭同學。
-
-
 - 🔭 I’m currently studying master degree in NTUST EE.
 - 🌱 I’m currently learning .. sor, I don't know QAQ
 
