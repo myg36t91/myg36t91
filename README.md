@@ -1,7 +1,7 @@
 ### Hi there.
 
 - 🔭 I’m currently studying master degree in NTUST EE.
-- 🌱 I’m currently learning .. sor, I don't know QAQ
+- 🌱 I’m currently learning ..
 
 <!--
 **myg36t91/myg36t91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
