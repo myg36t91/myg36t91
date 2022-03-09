@@ -1,17 +1,20 @@
 ### Hi there.
 
-- 🔭 I’m currently studying master degree in NTUST EE.
-- 🌱 I’m currently learning ..
-
-<!--
-**myg36t91/myg36t91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### I’m currently studying master degree in NTUST EE.
+Lab research topics include next-generation networks, information security and artificial intelligence, etc. <br>
+personal interest is playing musical instruments.
+  
+- Languages
+  - Chinese : Native
+  - English : TOEIC 505
+  - Japanese : JLPT N2
+ 
+- I’m currently learning ..
+  - Digital Logic
+  - FPGA (Implement 16-bit CPU)
+  - Computer Architecture
+  - SAT
+  
+- Expected to learning in the future ..
+  - Signal and System
+  - DSP
