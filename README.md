@@ -6,12 +6,12 @@ personal interest is playing musical instruments and digital circuit design.
   
 - Languages
   - Chinese : Native
-  - English : TOEIC 505
+  - English : TOEIC 545
   - Japanese : JLPT N2
  
 - I’m currently learning ..
   - Digital Logic
-  - FPGA (Implement 16-bit CPU)
+  - FPGA
   - Computer Architecture
   - SAT
   
