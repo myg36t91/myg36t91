@@ -9,12 +9,5 @@ personal interest is playing musical instruments and digital circuit design.
   - English : TOEIC 545
   - Japanese : JLPT N2
  
-- I’m currently learning ..
-  - Digital Logic
-  - FPGA
-  - Computer Architecture
-  - SAT
-  
-- Expected to learning in the future ..
-  - Signal and System
-  - DSP
+Currently I work in LiscoTech, and responsible for **IR module FPGA IP develop** project.
+On the other hand, I am also in charge of AI Box Security project of the ITRI now.
