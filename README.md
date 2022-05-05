@@ -2,7 +2,7 @@
 
 ##### I’m currently studying master degree in NTUST EE.
 Lab research topics include next-generation networks, information security and artificial intelligence, etc. <br>
-personal interest is playing musical instruments and digital circuit design.
+Personal interest is playing musical instruments and digital circuit design.
   
 - Languages
   - Chinese : Native
