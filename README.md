@@ -9,5 +9,5 @@ Personal interest is playing musical instruments and digital circuit design.
   - English : TOEIC 545
   - Japanese : JLPT N2
  
-Currently I work in LiscoTech, and responsible for **IR module FPGA IP develop** project. <br>
-On the other hand, I am also in charge of AI Box Security project of the ITRI now.
+Currently I work in LiscoTech, and responsible for **module FPGA IP develop** project. <br>
+On the other hand, I am also in charge of AI Box Security project (I don't like this) of the ITRI now.
