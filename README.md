@@ -25,5 +25,3 @@ Other fields and skills are learned based on personal interests.
  
 Currently I responsible for module FPGA IP develop in company. <br>
 On the other hand, I am also in charge of AI Box Security project of the ITRI now.
-
-myg36t91@gitbook.io
