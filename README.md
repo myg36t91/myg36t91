@@ -6,7 +6,7 @@ Other fields and skills are learned based on personal interests.
 
 - Languages
   - Chinese : Native
-  - English : TOEIC 545
+  - English : I am still working on it.
   - Japanese : JLPT N2
   
 - Skills
