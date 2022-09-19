@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=myg36t91)
+![GitHub followers](https://img.shields.io/github/followers/myg36t91?style=social)
+
 ### Hi there.
 
 ##### I’m currently studying master degree in NTUST EE.
@@ -25,3 +28,15 @@ Other fields and skills are learned based on personal interests.
  
 Currently I responsible for module FPGA IP develop in company. <br>
 On the other hand, I am also in charge of AI Box Security project of the ITRI now.
+
+---
+
+<table align="left">
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=myg36t91&show_icons=true&count_private=true" />
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myg36t91&layout=compact" />
+  </td>
+</tr>
